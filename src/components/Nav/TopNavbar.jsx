@@ -91,6 +91,24 @@ export default function TopNavbar() {
               <RouterLink
                 className="pointer"
                 style={{ padding: "10px 15px" }}
+                to="/commercial"
+              >
+                Commercial
+              </RouterLink>
+            </li>
+            <li className="semiBold font15 pointer">
+              <RouterLink
+                className="pointer"
+                style={{ padding: "10px 15px" }}
+                to="/landlords"
+              >
+                Guaranteed Rent
+              </RouterLink>
+            </li>
+            <li className="semiBold font15 pointer">
+              <RouterLink
+                className="pointer"
+                style={{ padding: "10px 15px" }}
                 to="/#contact"
                 onClick={() => {
                   setTimeout(() => {
