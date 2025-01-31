@@ -35,7 +35,7 @@ export default function Contact() {
           window.location.replace("/thankyou");
           
       }, (error) => {
-        setMessage('Error sending message, please email hello@liverpoolpropertymaintenance.com');
+        setMessage('Error sending message, please email hello@portsmouth-painter-and-decorator.co.uk');
           console.log(error.text);
       });
   };

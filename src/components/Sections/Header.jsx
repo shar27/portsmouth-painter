@@ -15,13 +15,13 @@ export default function Header() {
       <LeftSide className="flexCenter">
         <div>
         <HeadingTag>
-            Property maintenance specialists covering Liverpool, Manchester  & surrounding areas.
+            Property maintenance specialists covering Portsmouth & surrounding areas.
           </HeadingTag>
-          <h1 className="extraBold font60">Liverpool Property Maintenance.</h1>
+          <h1 className="extraBold font60">Portsmouth Painter And Decorator.</h1>
           
           
           <HeaderP className="font13 semiBold">
-          Looking for reliable property maintenance services in Liverpool, Manchester & surrouding areas
+          Looking for a reliable painter and decorator in Portsmouth & surrouding areas
           Our experienced team offers comprehensive solutions for residential and commercial properties, 
           including building maintenance, repairs, and management. Trust us for efficient and affordable services tailored to landlords and property owners. 
           Contact us for emergency assistance and ensure your property's upkeep with our expert solutions.

@@ -23,7 +23,7 @@ export default function TopNavbar() {
   return (
     <>
       <ContactInfoSmallScreen>
-        <a href="mailto:hello@liverpoolpropertymaintenance.com">📧 hello@liverpoolpropertymaintenance.com</a>
+        <a href="mailto:hello@portsmouth-painter-and-decorator.co.uk">📧 hello@portsmouth-painter-and-decorator.co.uk</a>
         <a href="tel:03333606113">📞 0333 360 6113</a>
       </ContactInfoSmallScreen>
       <Sidebar sidebarOpen={sidebarOpen} toggleSidebar={toggleSidebar} />
@@ -116,7 +116,7 @@ export default function TopNavbar() {
           </UlWrapper>
           <UlWrapperRight className="flexNullCenter">
             <li className="semiBold font15 pointer">
-              <a href="mailto:hello@liverpoolpropertymaintenance.com" style={{ padding: "10px 30px 10px 0" }}>📧 hello@liverpoolpropertymaintenance.com</a> <br/>
+              <a href="mailto:hello@portsmouth-painter-and-decorator.co.uk" style={{ padding: "10px 30px 10px 0" }}>📧 hello@portsmouth-painter-and-decorator.co.uk</a> <br/>
               <a href="/" style={{ padding: "10px 30px 10px 0" }}>
                 Call today 📞 0333 360 6113
               </a>
